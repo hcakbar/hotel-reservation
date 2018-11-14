@@ -1,2 +1,2 @@
 # my-app-java
-Projects for Java Programmer courses
+Projects for Java programming courses
